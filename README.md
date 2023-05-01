@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikkiCat
-- 👀 I’m interested in game developing 
-- 🌱 I’m currently learning 3d modeling and Unreal Engine 4
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning Java, Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  viktoria.genyk@gmail.com
 
