@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikkiCat
 - 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java, Spring
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  viktoria.genyk@gmail.com
 
