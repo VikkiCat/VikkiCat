@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikkiCat
-- 👀 I’m interested in Java 
+- 👀 I’m interested in collaboration with front-end developers 
 - 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on spring project
 - 📫 How to reach me:  viktoria.genyk@gmail.com
 
 <!---
